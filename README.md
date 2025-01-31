@@ -35,7 +35,7 @@ Application with multiple functionalities, each running on its own thread. `Used
 ## 🤝 Connect with me
 <p>
 	&emsp;
-	<a href="mailto:moranandres79@gmail.com"><img img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+	<a href="mailto:santiago119parra@gmail.com"><img img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
 	&emsp;
 	<a href="https://github.com/AndresGMoran"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 	&emsp;
