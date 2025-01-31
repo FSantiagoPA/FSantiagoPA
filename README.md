@@ -37,9 +37,9 @@ Application with multiple functionalities, each running on its own thread. `Used
 	&emsp;
 	<a href="mailto:santiago119parra@gmail.com"><img img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
 	&emsp;
-	<a href="https://github.com/AndresGMoran"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+	<a href="https://github.com/FSantiagoPA"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 	&emsp;
-	<a href="https://www.linkedin.com/in/andr%C3%A9s-glyn-moran-lamela-873266147/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+	<a href="https://"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 </p>
 
 ---
