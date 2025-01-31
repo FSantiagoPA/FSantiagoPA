@@ -51,9 +51,9 @@ Application with multiple functionalities, each running on its own thread. `Used
 ----
 	
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndresGMoran&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresGMoran&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AndresGMoran" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
