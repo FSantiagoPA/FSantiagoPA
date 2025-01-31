@@ -31,12 +31,6 @@ Application for managing points of interest with a MySQL and MongoDB database, f
 [![MultiThreadApp](https://img.shields.io/badge/-MultiThread%20App-blue?style=for-the-badge&logo=task&logoColor=white)]()  
 Application with multiple functionalities, each running on its own thread. `Used technologies:` Python.
 
-
-## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=FSantiagoPA&show_icons=true&theme=tokyonight)
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FSantiagoPA&theme=tokyonight&layout=compact)
-
-
 ## 🤝 Connect with me
 <p>
 	&emsp;
@@ -59,7 +53,7 @@ Application with multiple functionalities, each running on its own thread. `Used
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndresGMoran&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresGMoran&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AndresGMoran" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresGMoran&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="FSantiagoPA" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -70,7 +64,7 @@ Application with multiple functionalities, each running on its own thread. `Used
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresGMoran&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="AndresGMoran" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndresGMoran&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="FSantiagoPA" /></a> </p>
 	
 </details>
 
