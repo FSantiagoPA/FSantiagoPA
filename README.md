@@ -19,7 +19,7 @@
 
 ✨ Here are some of the projects I'm most proud of:
 
-[![Recreativa]([https://img.shields.io/badge/-Recreativa-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/Recreativa](https://github.com/FSantiagoPA/RecreativaProject))  
+[![Recreativa]([https://img.shields.io/badge/-Recreativa-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/FSantiagoPA/RecreativaProject)  
 An app featuring multiple games for a fun and engaging experience. Technologies used: Java, JSON, and Android Studio. It was created together with two of my classmates.
 
 [![Battleship](https://img.shields.io/badge/-Battleship-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/AndresGMoran/BattleShip)  
