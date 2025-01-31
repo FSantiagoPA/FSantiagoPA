@@ -31,6 +31,7 @@ Application for managing points of interest with a MySQL and MongoDB database, f
 [![MultiThreadApp](https://img.shields.io/badge/-MultiThread%20App-blue?style=for-the-badge&logo=task&logoColor=white)]()  
 Application with multiple functionalities, each running on its own thread. `Used technologies:` Python.
 
+
 ## By the way here are some of my statistics 🚀
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=FSantiagoPA&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FSantiagoPa&theme=tokyonight" alt="mystreak"/>
