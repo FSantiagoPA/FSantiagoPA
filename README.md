@@ -29,7 +29,7 @@ A classic Battleship game featuring CPU mode and 1v1, where players strategicall
 Application for managing points of interest with a MySQL and MongoDB database, featuring a complete CRUD functionality. `Used technologies:` Java, MySQL, MongoDB and Eclipse.
 
 [![MultiThreadApp](https://img.shields.io/badge/-MultiThread%20App-blue?style=for-the-badge&logo=task&logoColor=white)]()  
-Application with multiple functionalities, each running on its own thread. `Used technologies:` Python and Visual Studio Code.
+Application with multiple functionalities, each running on its own thread. `Used technologies:` Python.
 
 
 ## 🤝 Connect with me
