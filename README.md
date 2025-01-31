@@ -20,7 +20,7 @@
 ✨ Here are some of the projects I'm most proud of:
 
 [![Recreativa](https://img.shields.io/badge/-Recreativa-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/FSantiagoPA/RecreativaProject)  
-An app with multiple games to play, offering a fun and engaging experience. `Used technologies:` Java, json and Android Studio.
+An app featuring multiple games for a fun and engaging experience. `Technologies used:` Java, JSON, and Android Studio. It was created together with two of my classmates.
 
 [![Battleship](https://img.shields.io/badge/-Battleship-blue?style=for-the-badge&logo=task&logoColor=white)](https://github.com/FSantiagoPA/BattleShip)  
 A classic Battleship game featuring CPU mode and 1v1, where players strategically sink their opponent's ships. `Used technologies:` Java and JetBrains Idea.
